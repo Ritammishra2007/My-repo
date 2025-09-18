@@ -1,1 +1,2 @@
-This is conflict file
+This is new conflict and conflict might arise due to this line
+
